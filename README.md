@@ -1,10 +1,19 @@
 
 
-### Ola! Eu sou o João Victor
-- 🌱 Estou estudando Java
+## Olá eu sou João Victor, Desenvolverdor Web (Full-Stack) / Mobile(Java)!
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=usarnamevictor)
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/vict_or64" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-victor-97ab8b218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joao-victor-97ab8b218/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vict_or64/)
-
-
+</div>
+Footer
+© 2022 GitHub, Inc.
